@@ -35,6 +35,6 @@ Welcome to My GitHub Profile! 👋
 📫 How to reach me:
 
 	•	therebelmma@gmail.com
-	•	cannakkaya@hotmail.com
+	•	cannakkayaa@hotmail.com
 
 Feel free to explore my repositories and projects. Let’s connect and collaborate! 🚀

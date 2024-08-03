@@ -18,6 +18,10 @@ Welcome to My GitHub Profile! 👋
 	•	Shell Terminal ⌨️
 	•	Lua 🌐
 	•	SQL 📊
+ 	•	C++
+  	•	Ruby (Beginner)
+   	•	TypeScript (Beginner)
+    	•	Swift (Beginner)
  
  🔹 Libraries I Use:
 

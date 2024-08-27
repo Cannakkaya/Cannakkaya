@@ -21,8 +21,8 @@ Welcome to My GitHub Profile! 👋
  	•	C++
   	•	Ruby (Beginner)
    	•	TypeScript (Beginner)
-    	•	Swift (Beginner)
-     	•	Flutter
+    •	Swift (Beginner)
+     •	Flutter
  
  🔹 Libraries I Use:
 
